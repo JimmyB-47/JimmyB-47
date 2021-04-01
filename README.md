@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JimmyB-47
+- 👋 Hi, I’m @james-braithwaite
 - 👀 I’m interested in data science and analytics
 - 🌱 I’m currently learning more about Python and its capabilities for machine learning. 
 
